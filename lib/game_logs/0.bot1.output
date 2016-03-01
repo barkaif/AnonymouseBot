@@ -1,632 +1,2281 @@
 # turn 1
-o 26 28 nnnnnn
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
+o 23 31 nnnnww
 # turn 2
-o 20 28 nnnnnn
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
+o 19 29 nnnwww
 # turn 3
-o 14 28 nnnnnn
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
+o 16 26 nwwwww
 # turn 4
-o 8 28 nnnnnw
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
+o 15 21 e
+o 24 30 wwwww
 # turn 5
-o 25 29 a1
-o 3 27 wwwwww
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
+o 15 22 e
+o 24 25 nwwww
 # turn 6
-o 25 29 nnnnn
-o 3 21 s
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
+o 15 23 e
+o 23 21 nnnnw
 # turn 7
-o 23 31 a1
-o 24 30 a1
-o 20 29 nnnnn
-o 4 21 s
+o 15 24 s
+o 19 20 nnw
 # turn 8
-o 15 29 nnnnn
-o 5 21 s
-The order: 'o 24 30 -' is invalid # invalid directions
+o 16 24 s
+o 17 19 s
+o 26 28 nnnw
 # turn 9
-o 10 29 nnnnn
-o 6 21 s
-The order: 'o 24 30 -' is invalid # invalid directions
+o 17 24 e
+o 18 19 s
+o 25 29 w
+o 23 27 a2
 # turn 10
-o 5 29 nnwww
-o 7 21 s
-The order: 'o 24 30 -' is invalid # invalid directions
+o 17 25 e
+o 19 19 e
+o 23 27 ssen
 # turn 11
-o 3 26 wwwww
-o 8 21 s
-The order: 'o 24 30 -' is invalid # invalid directions
+o 17 26 e
+o 19 20 s
+o 24 28 nnww
 # turn 12
-o 3 21 wwwww
-o 9 21 s
-The order: 'o 24 30 -' is invalid # invalid directions
+o 17 27 s
+o 20 20 e
+o 22 26 nnnw
 # turn 13
-o 24 30 nnnn
-o 3 16 s
-o 10 21 s
+o 18 27 s
+o 20 21 e
+o 19 25 wwww
 # turn 14
-o 20 30 nnnn
-o 4 16 s
-o 11 21 s
+o 19 27 e
+o 20 22 e
+o 25 29 nww
+o 19 21 w
 # turn 15
-o 16 30 nnnn
-o 5 16 s
-o 12 21 s
+o 19 28 s
+o 20 23 s
+o 19 20 wwww
 # turn 16
-o 12 30 nnnn
-o 6 16 s
-o 13 21 s
+o 25 29 swwwww
 # turn 17
-o 8 30 nnnn
-o 7 16 s
-o 14 21 s
+o 26 24 wwwwww
 # turn 18
-o 4 30 nwww
-o 8 16 s
-o 15 21 s
+o 26 18 wwwwww
 # turn 19
-o 3 27 wwww
-o 9 16 s
-o 16 21 s
+o 26 12 wwwwww
 # turn 20
-o 3 23 wwww
-o 10 16 s
-o 17 21 s
+o 20 28 s
+o 19 16 s
 # turn 21
-o 3 19 wwww
-o 11 16 s
-o 18 21 s
+o 21 28 e
+o 20 16 s
+The order: 'o 25 29 wa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 22
-o 3 15 wwww
-o 19 21 s
+o 21 29 s
+o 21 16 s
+The order: 'o 25 29 wa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 23
-o 3 11 s
-o 20 21 s
+o 22 29 e
+o 22 16 e
+The order: 'o 25 29 wa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 24
-o 4 11 s
-o 21 21 s
-The order: 'o 12 16 nnnn' is invalid # You tried to move a pirate but dont have one at this location
+o 22 30 e
+o 22 17 s
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 25
-o 5 11 s
-o 22 21 s
+o 23 17 s
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 26
-o 6 11 s
-o 23 21 s
-# turn 27
-o 7 11 s
-o 24 21 s
-# turn 28
-o 23 31 nnnn
-o 8 11 s
-o 25 21 s
-# turn 29
-o 19 31 nnnn
-o 9 11 s
-o 26 21 e
-# turn 30
-o 15 31 nnnn
-o 10 11 s
-o 26 22 e
-# turn 31
-o 11 31 nnnn
-o 11 11 s
-o 26 23 e
-# turn 32
-o 7 31 nnww
-o 12 11 s
-o 26 24 e
-# turn 33
-o 5 29 wwww
-o 13 11 s
-o 26 25 e
-# turn 34
-o 5 25 wwww
-o 14 11 s
-o 26 26 e
-# turn 35
-o 5 21 s
-o 15 11 s
-o 26 27 e
-# turn 36
-o 6 21 s
-o 26 28 a1
-# turn 37
-o 7 21 s
-o 26 28 nnnnn
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 38
-o 8 21 s
-o 21 28 nnnnn
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 39
-o 9 21 s
-o 16 28 nnnnn
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 40
-o 10 21 s
-o 11 28 nnnnn
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-# turn 41
-o 11 21 s
-o 6 28 nwwww
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-# turn 42
-o 12 21 s
-o 5 24 wwwww
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-# turn 43
-o 13 21 s
-o 5 19 wwwww
-# turn 44
-o 14 21 s
-o 5 14 www
-# turn 45
-o 15 21 s
-o 5 11 s
-# turn 46
-o 16 21 s
-o 6 11 s
-# turn 47
-o 17 21 s
-o 7 11 s
-# turn 48
-o 18 21 s
-o 8 11 s
-# turn 49
-o 19 21 s
-o 9 11 s
-# turn 50
-o 20 21 s
-o 10 11 s
-# turn 51
-o 21 21 s
-o 11 11 s
-# turn 52
-o 22 21 s
-o 12 11 s
-# turn 53
-o 23 21 e
-o 13 11 s
-# turn 54
-o 23 22 e
-o 14 11 s
-The order: 'o 16 11 a3' is invalid # The pirate is drunk - can't do anything
-# turn 55
-o 23 23 e
-# turn 56
-o 23 24 e
-o 16 11 neee
-o 15 11 s
-# turn 57
-o 23 25 e
-o 15 14 eeee
-o 16 11 s
-# turn 58
-o 23 26 e
-o 15 18 eee
-o 17 11 s
-# turn 59
-o 15 21 s
-o 18 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 60
-o 16 21 s
-o 19 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 61
-o 17 21 s
-o 20 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 62
-o 18 21 s
-o 21 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 63
-o 19 21 s
-o 22 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 64
-o 20 21 s
-o 23 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 65
-o 21 21 s
-o 24 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 66
-o 22 21 s
-o 25 11 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 67
-o 23 21 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 68
-o 24 21 e
-o 26 28 a0
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 69
-o 24 22 e
-o 26 28 nnnnn
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 70
-o 24 23 e
-o 21 28 nnnnn
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 71
-o 24 24 e
-o 16 28 nnnnn
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 72
-o 24 25 e
-o 11 28 nnnnn
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 73
-o 24 26 e
-o 6 28 nwwww
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 74
-o 5 24 www
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 75
-o 5 21 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 76
-o 6 21 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 77
-o 7 21 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 78
-o 8 21 s
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 79
-o 23 27 a0
-o 9 21 s
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 80
-o 23 27 nnnnn
-o 10 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 81
-o 18 27 nnnnn
-o 11 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 82
-o 13 27 nnnnn
-o 12 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 83
-o 8 27 nnnnn
-o 13 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 84
-o 3 27 wwwww
-o 14 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 85
-o 3 22 wwwww
-o 15 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 86
-o 3 17 wwwww
-o 16 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 87
-o 3 12 w
-o 17 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 88
-o 3 11 s
-o 18 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 89
-o 4 11 s
-o 19 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 90
-o 5 11 s
-o 20 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 91
-o 6 11 s
-o 21 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 92
-o 7 11 s
-o 22 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 93
-o 8 11 s
-o 23 21 s
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-# turn 94
-o 9 11 s
-o 24 27 a1
-o 24 21 s
-# turn 95
-o 10 11 s
-o 25 21 s
-# turn 96
-o 11 11 s
-o 26 21 e
-# turn 97
-o 12 11 s
-o 26 22 e
-# turn 98
-o 13 11 s
-o 26 23 e
-# turn 99
-o 14 11 s
-o 26 24 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 100
-o 15 11 s
-o 26 25 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 101
-o 16 11 s
-o 26 26 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 102
-o 17 11 s
-o 26 27 e
-# turn 103
-o 26 28 a0
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 104
-o 26 28 nnnnnn
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 105
-o 20 28 nnnnnn
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 106
-o 14 28 nnnnnn
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 107
-o 8 28 nnnnnw
-# turn 108
-o 3 27 wwwwww
-# turn 109
-o 3 21 wwwwww
-# turn 110
-o 3 15 wwww
-# turn 111
-o 3 11 s
-# turn 112
-o 4 11 s
-# turn 113
-o 5 11 s
-# turn 114
-o 6 11 s
-# turn 115
-o 24 27 nnnnn
-o 7 11 s
-# turn 116
-o 19 27 nnnnn
-o 8 11 s
-# turn 117
-o 14 27 nnnnn
-o 9 11 s
-# turn 118
-o 9 27 nnnnw
-o 10 11 s
-# turn 119
-o 5 26 wwwww
-o 11 11 s
-# turn 120
-o 5 21 wwwww
-o 12 11 s
-# turn 121
-o 5 16 wwwww
-o 13 11 s
-# turn 122
-o 5 11 s
-o 14 11 s
-# turn 123
-o 18 11 nnne
-o 6 11 s
-o 15 11 s
-# turn 124
-o 15 12 eeee
-o 7 11 s
-o 16 11 s
-# turn 125
-o 15 16 eeee
-o 8 11 s
-o 17 11 s
-# turn 126
-o 15 20 e
-o 9 11 s
-o 18 11 s
-# turn 127
-o 15 21 s
-o 10 11 s
-o 19 11 s
-# turn 128
-o 16 21 s
-o 11 11 s
-o 20 11 s
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-# turn 129
-o 17 21 s
-o 12 11 s
-o 21 11 s
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-# turn 130
-o 18 21 s
-o 13 11 s
-o 22 11 s
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-# turn 131
-o 19 21 s
-o 14 11 s
-o 23 11 s
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-# turn 132
-o 20 21 s
-o 15 11 s
-o 24 11 s
-# turn 133
-o 21 21 s
-o 16 11 s
-o 25 11 s
-# turn 134
-o 22 21 s
-o 17 11 s
-o 26 11 e
-# turn 135
-o 23 21 e
-o 18 11 s
-o 26 12 e
-# turn 136
-o 23 22 e
-o 19 11 s
-o 26 13 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 137
-o 23 23 e
-o 20 11 s
-o 26 14 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 138
-o 23 24 e
-o 21 11 s
-o 26 15 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 139
-o 23 25 e
-o 22 11 s
-o 26 16 e
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 140
-o 23 26 e
-o 23 11 s
-o 26 17 e
-# turn 141
-o 24 11 e
-o 26 18 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 142
-o 24 12 e
-o 26 19 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 143
-o 24 13 e
-o 26 20 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 144
-o 24 14 e
-o 26 21 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-# turn 145
-o 24 15 e
-o 26 22 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 146
-o 24 16 e
-o 26 23 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 147
 o 24 17 e
-o 26 24 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 148
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 27
 o 24 18 e
-o 26 25 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 149
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 28
 o 24 19 e
-o 26 26 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 150
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 29
 o 24 20 e
-o 26 27 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-# turn 151
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 30
 o 24 21 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 31
+o 24 22 s
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 32
+o 25 22 e
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 33
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 34
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 35
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 36
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 37
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 38
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 39
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 40
+o 21 23 sssw
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 41
+o 24 22 wwww
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 42
+o 24 18 wwww
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 43
+o 24 14 swww
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 44
+o 25 11 swww
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 45
+o 22 31 a1
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 46
+o 22 31 wwww
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 47
+o 22 27 nnnn
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 48
+o 18 27 nnnw
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 49
+o 15 26 wwww
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 50
+o 15 22 w
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 51
+o 15 21 s
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 52
+o 16 21 s
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 53
+o 17 21 e
+o 25 23 nnn
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 54
+o 17 22 e
+o 22 23 nww
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 55
+o 17 23 s
+o 21 21 a3
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 56
+o 18 23 e
+o 21 21 nnn
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 57
+o 18 24 e
+o 18 21 nww
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 58
+o 18 25 s
+o 17 19 s
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 59
+o 19 25 s
+o 18 19 e
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 60
+o 20 25 s
+o 18 20 e
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 61
+o 21 25 e
+o 18 21 e
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 62
+o 21 26 e
+o 18 22 s
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 63
+o 21 27 s
+o 19 22 s
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 64
+o 22 27 e
+o 20 22 e
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 65
+o 22 28 e
+o 20 23 s
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 66
+o 22 29 e
+o 21 23 e
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 67
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 a0' is invalid # The pirate is drunk - can't do anything
+# turn 68
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 a0' is invalid # The pirate is drunk - can't do anything
+# turn 69
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 a0' is invalid # The pirate is drunk - can't do anything
+# turn 70
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+# turn 71
+o 25 29 a0
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+# turn 72
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+# turn 73
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+# turn 74
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+# turn 75
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+# turn 76
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 77
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 78
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 79
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 80
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 81
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 82
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 83
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 84
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 85
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 86
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 87
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 88
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 89
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 90
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 91
+o 25 29 nnw
+o 21 24 e
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 92
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 93
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 94
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 95
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 96
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 97
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 98
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 99
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 100
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 101
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 102
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 103
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 104
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 105
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 106
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 107
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 108
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 109
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 110
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 111
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 112
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 113
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 114
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 115
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 116
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 117
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 118
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 119
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 120
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 121
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 122
+o 21 25 e
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 123
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 124
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 125
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 126
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 127
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 128
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 129
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 130
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 131
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 132
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 133
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 134
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 135
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 136
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 137
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 138
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 139
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 140
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 141
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 142
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 143
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 144
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 145
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 146
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 147
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 148
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 149
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 150
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 151
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 152
-o 24 22 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 153
-o 24 23 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+o 21 26 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 154
-o 24 24 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 155
-o 24 25 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 156
-o 24 26 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 157
-o 24 27 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 158
-o 24 28 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 159
-o 24 29 e
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 160
-The order: 'o 23 27 a1' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 30 a1' is invalid # You tried to move a pirate but dont have one at this location
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 161
-o 23 27 a1
-o 24 30 a1
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 162
-o 24 30 nnnnnn
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 163
-o 18 30 nnnnnn
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 164
-o 12 30 nnnnnn
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
 # turn 165
-o 6 30 nnnnnw
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 166
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 167
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 168
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 169
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 170
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 171
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 172
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 173
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 174
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 175
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 176
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 177
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 178
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 179
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 180
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 181
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 182
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 183
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 184
+o 22 26 e
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 185
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 186
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 187
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 188
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 189
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 190
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 191
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 192
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 193
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 194
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 195
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 196
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 197
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 198
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 199
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 200
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 201
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 202
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 203
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 204
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 205
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 206
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 207
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 208
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 209
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 210
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 211
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 212
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 213
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 214
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 215
+o 22 27 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 216
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 217
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 218
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 219
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 220
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 221
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 222
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 223
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 224
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 225
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 226
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 227
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 228
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 229
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 230
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 231
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 232
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 233
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 234
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 235
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 236
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 237
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 238
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 239
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 240
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 241
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 242
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 243
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 244
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 245
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 246
+o 23 27 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 247
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 248
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 249
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 250
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 251
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 252
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 253
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 254
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 255
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 256
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 257
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 258
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 259
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 260
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 261
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 262
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 263
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 264
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 265
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 266
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 267
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 268
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 269
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 270
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 271
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 272
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 273
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 274
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 275
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 276
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 277
+o 24 27 e
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 278
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 279
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 280
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 281
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 282
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 283
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 284
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 285
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 286
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 287
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 288
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 289
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 290
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 291
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 292
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 293
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 294
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 295
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 296
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 297
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 298
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 299
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 300
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 301
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 302
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 303
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 304
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 305
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 306
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 307
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 308
+o 24 28 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 309
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 310
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 311
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 312
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 313
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 314
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 315
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 316
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 317
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 318
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 319
+o 23 28 a0
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 320
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 321
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 322
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 323
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 324
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 325
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 326
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 327
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 328
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 329
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 330
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 331
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 332
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 333
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 334
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 335
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 336
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 337
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 338
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 339
+o 25 28 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 340
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 341
+o 23 28 nnnn
+o 26 28 a1
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 342
+o 19 28 nwww
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 343
+o 18 25 wwww
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 344
+o 18 21 nnn
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 345
+o 15 21 e
+o 26 28 nnw
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 346
+o 15 22 s
+o 24 27 nnw
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 347
+o 16 22 s
+o 22 26 www
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 348
+o 17 22 s
+o 22 23 nnn
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 349
+o 18 22 s
+o 19 23 www
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 350
+o 19 22 e
+o 19 20 www
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 351
+o 19 23 e
+o 19 17 w
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 352
+o 19 24 s
+o 19 16 e
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 353
+o 20 24 s
+o 19 17 s
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 354
+o 21 24 s
+o 20 17 s
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 355
+o 22 24 s
+o 21 17 e
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 356
+o 23 24 e
+o 21 18 e
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 357
+o 23 25 e
+o 21 19 e
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 358
+o 23 26 s
+o 21 20 s
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 359
+o 24 26 e
+o 22 20 e
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 360
+o 24 27 e
+o 22 21 s
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 361
+o 24 28 s
+o 23 21 e
+The order: 'o 22 30 ssswa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 362
+o 25 28 e
+o 23 22 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 363
+o 24 22 e
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 364
+o 25 29 a1
+o 24 23 s
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 365
+o 25 29 www
+o 25 23 s
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 366
+o 25 26 www
+o 26 23 e
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 367
+o 25 23 nnw
+o 26 24 e
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 368
+o 23 22 nnn
+o 26 25 e
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 369
+o 20 22 nnn
+o 26 26 e
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 370
+o 17 22 nnw
+o 26 27 e
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 371
+o 15 21 e
+o 26 28 nww
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 372
+o 15 22 s
+o 25 26 a2
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 373
+o 16 22 e
+o 25 26 nnw
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 374
+o 16 23 s
+o 23 25 www
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 375
+o 17 23 s
+o 23 22 nnn
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 376
+o 18 23 s
+o 20 22 nnn
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 377
+o 19 23 e
+o 17 22 nnn
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 378
+o 19 24 s
+o 14 22 nn
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 379
+o 20 24 e
+o 12 22 s
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 380
+o 20 25 s
+o 13 22 s
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 381
+o 21 25 s
+o 14 22 e
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 382
+o 22 25 s
+o 14 23 s
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+# turn 383
+o 22 30 ssnw
+o 23 25 s
+o 15 23 s
+# turn 384
+o 23 29 ssnn
+o 24 25 s
+o 16 23 s
+# turn 385
+o 25 25 e
+o 17 23 e
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 386
+o 25 26 e
+o 17 24 s
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 387
+o 25 27 e
+o 18 24 e
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 388
+o 25 28 e
+o 18 25 e
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 389
+o 18 26 s
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 390
+o 25 29 a1
+o 19 26 s
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 391
+o 23 29 sennw
+o 20 26 e
+# turn 392
+o 22 29 ssenw
+o 20 27 s
+# turn 393
+o 25 29 n
+o 21 27 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 394
+o 24 29 w
+o 21 28 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 395
+o 24 28 w
+o 22 28 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 396
+o 24 27 n
+o 23 28 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 397
+o 23 27 n
+o 24 28 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 398
+o 22 27 n
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 399
+o 21 27 n
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 400
+o 20 27 n
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 401
+o 19 27 w
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 402
+o 19 26 nw
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 403
+o 18 25 nw
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 404
+o 17 24 nw
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 405
+o 16 23 nw
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 406
+o 15 22 nn
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 407
+o 13 22 n
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 408
+o 12 22 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 409
+o 13 22 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 410
+o 14 22 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 411
+o 14 23 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 412
+o 15 23 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 413
+o 15 24 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 414
+o 15 25 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 415
+o 16 25 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 416
+o 16 26 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 417
+o 16 27 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 418
+o 16 28 e
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 419
+o 16 29 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 420
+o 17 29 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 421
+o 18 29 s
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+# turn 422
+o 19 29 s
+o 25 28 a0
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 423
+o 20 29 s
+o 25 28 n
+The order: 'o 23 29 ssswa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 424
+o 21 29 s
+o 24 28 n
+The order: 'o 23 29 ssswa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 425
+o 22 29 s
+o 23 28 w
+The order: 'o 23 29 ssswa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 426
+o 23 27 ssseww
+# turn 427
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 428
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 429
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 430
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 431
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 432
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 433
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 434
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 435
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 436
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 437
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 438
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 439
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 440
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 441
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 442
+o 26 26 nnnn
+The order: 'o 23 31 swa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 443
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 444
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 445
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 446
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 447
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 448
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 449
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 450
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 451
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 452
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 453
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 454
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 455
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 456
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 457
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 458
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 459
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 460
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 461
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 462
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 463
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 464
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 465
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 466
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 467
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 468
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 469
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 470
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 471
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 472
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 473
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 474
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 475
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 476
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 477
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 478
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 479
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 480
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 481
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 482
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 483
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 484
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 485
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 486
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 487
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 488
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 489
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 490
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 491
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 492
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 493
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 494
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 495
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 496
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 497
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 498
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 499
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 500
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 501
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 502
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 503
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 504
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 505
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 506
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 507
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 508
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 509
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 510
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 511
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 512
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 513
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 514
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 515
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 516
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 517
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 518
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 519
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 520
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 521
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 522
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 523
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 524
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 525
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 526
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 527
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 528
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 529
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 530
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 531
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 532
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 533
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 534
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 535
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 536
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 537
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 538
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 539
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 540
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 541
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 542
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 543
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 544
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 545
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 546
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 547
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 548
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 549
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 550
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 551
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 552
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 553
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 554
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 555
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 556
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 557
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 558
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 559
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 560
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 561
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 562
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 563
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 564
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 565
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 566
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 567
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 568
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 569
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 570
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 571
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 572
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 573
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 574
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 575
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 576
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 577
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 578
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 579
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 580
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 581
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 582
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 583
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 584
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 585
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 586
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 587
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 588
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 589
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 590
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 591
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 592
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 593
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 594
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 595
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 596
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 597
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 598
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 599
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 600
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 601
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 602
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 603
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 604
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 605
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 606
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 607
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 608
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 609
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 610
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 611
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 612
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 613
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 614
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 615
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 616
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 617
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 618
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 619
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 620
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 621
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 622
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 623
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 624
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 625
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 626
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 627
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 628
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 629
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 630
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 631
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 632
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 633
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 634
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 635
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 636
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 637
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 638
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 639
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 640
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 641
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 642
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 643
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 644
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 645
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 646
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 647
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 648
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 649
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 650
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 651
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 652
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 653
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 654
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 655
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 656
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 657
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 658
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 659
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 660
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 661
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 662
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 663
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 664
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 665
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 666
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 667
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 668
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 669
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 670
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 671
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 672
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 673
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 674
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 675
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 676
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 677
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 678
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 679
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 680
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 681
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 682
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 683
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 684
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 685
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 686
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 687
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 688
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 689
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 690
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 691
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 692
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 693
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 694
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 695
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 696
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 697
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 698
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 699
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 700
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 701
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 702
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 703
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 704
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 705
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 706
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 707
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 708
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 709
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 710
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 711
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 712
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 713
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 714
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 715
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 716
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 717
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 718
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 719
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 720
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 721
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 722
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 723
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 724
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 725
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 726
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 727
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 728
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 729
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 730
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 731
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 732
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 733
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 734
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 735
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 736
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 737
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 738
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 739
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 740
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 741
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 742
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 743
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 744
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 745
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 746
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 747
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 748
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 749
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 750
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 751
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 752
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 753
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 754
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 755
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 756
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 757
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 758
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 759
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 760
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 761
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 762
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 763
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 764
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 765
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 766
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 767
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 768
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 769
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 770
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 771
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 772
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 773
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 774
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 775
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 776
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 777
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 778
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 779
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 780
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 781
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 782
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 783
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 784
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 785
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 786
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 787
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 788
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 789
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 790
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 791
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 792
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 793
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 794
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 795
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 796
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 797
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 798
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 799
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 800
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 801
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 802
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 803
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 804
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 805
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 806
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 807
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 808
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 809
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 810
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 811
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 812
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 813
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 814
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 815
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 816
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 817
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 818
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 819
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 820
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 821
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 822
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 823
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 824
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 825
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 826
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 827
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 828
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 829
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 830
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 831
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 832
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 833
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 834
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 835
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 836
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 837
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 838
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 839
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 840
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 841
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 842
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 843
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 844
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 845
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 846
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 847
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 848
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 849
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 850
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 851
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 852
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 853
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 854
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 855
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 856
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 857
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 858
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 859
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 860
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 861
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 862
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 863
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 864
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 865
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 866
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 867
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 868
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 869
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 870
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 871
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 872
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 873
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 874
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 875
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 876
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 877
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 878
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 879
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 880
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 881
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 882
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 883
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 884
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 885
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 886
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 887
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 888
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 889
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 890
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 891
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 892
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 893
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 894
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 895
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 896
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 897
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 898
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 899
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 900
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 901
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 902
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 903
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 904
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 905
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 906
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 907
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 908
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 909
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 910
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 911
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 912
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 913
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 914
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 915
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 916
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 917
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 918
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 919
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 920
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 921
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 922
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 923
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 924
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 925
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 926
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 927
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 928
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 929
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 930
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 931
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 932
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 933
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 934
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 935
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 936
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 937
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 938
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 939
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 940
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 941
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 942
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 943
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 944
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 945
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 946
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 947
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 948
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 949
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 950
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 951
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 952
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 953
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 954
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 955
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 956
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 957
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 958
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 959
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 960
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 961
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 962
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 963
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 964
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 965
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 966
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 967
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 968
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 969
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 970
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 971
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 972
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 973
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 974
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 975
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 976
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 977
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 978
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 979
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 980
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 981
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 982
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 983
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 984
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 985
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 986
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 987
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 988
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 989
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 990
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 991
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 992
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 993
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 994
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 995
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 996
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 997
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 998
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 999
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+# turn 1000
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn

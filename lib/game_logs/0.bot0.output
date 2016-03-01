@@ -1,509 +1,1215 @@
 # turn 1
-o 24 2 seeeee
+o 26 4 nnnnnn
 # turn 2
-o 25 7 eeeeee
+o 20 4 nnneee
 # turn 3
-o 25 13 eeeeee
+o 17 7 eeeeee
 # turn 4
-o 25 19 eeeeee
-# turn 5
-o 25 25 d
-o 26 4 nnnnnn
-# turn 6
-o 25 25 eeee
-# turn 7
-o 25 29 a0
-o 20 4 nnnnne
-# turn 8
-o 15 5 eeeeee
-# turn 9
-o 25 3 nnnnn
-o 15 11 s
-# turn 10
-o 20 3 nnnee
-o 16 11 s
-# turn 11
-o 17 5 eeeee
-o 17 11 s
-# turn 12
-o 17 10 eee
-o 18 11 s
-# turn 13
-o 23 1 nnnn
+o 25 3 eeeee
 o 17 13 s
-o 19 11 s
-# turn 14
-o 19 1 nnnn
+# turn 5
+o 25 8 eeeee
 o 18 13 s
-o 20 11 s
-# turn 15
-o 15 1 nnnn
+# turn 6
+o 25 13 eeeee
 o 19 13 s
-o 21 11 s
-# turn 16
-o 11 1 nnnn
+# turn 7
+o 25 18 eeeee
 o 20 13 s
-o 22 11 s
-# turn 17
-o 7 1 eeee
+# turn 8
+o 25 23 eeeee
 o 21 13 s
-o 23 11 s
-# turn 18
-o 7 5 seee
+# turn 9
+o 24 2 eeeee
+o 25 28 a2
 o 22 13 s
-o 24 11 s
-# turn 19
-o 8 8 seee
+# turn 10
+o 24 7 eeeee
 o 23 13 s
-o 25 11 s
-# turn 20
-o 9 11 seee
-o 24 13 s
-o 26 11 w
-# turn 21
-o 10 14 a2
-o 25 13 w
-o 26 10 w
-# turn 22
-o 10 14 ssee
-o 25 12 w
-o 26 9 w
-# turn 23
-o 25 11 w
-o 26 8 w
-# turn 24
-o 23 1 seee
-o 25 10 w
-o 26 7 w
-# turn 25
-o 24 4 eeee
-o 25 9 w
-o 26 6 w
-# turn 26
-o 24 8 eeee
-o 25 8 w
-o 26 5 w
-# turn 27
-o 25 7 w
-o 26 4 nnnnn
-# turn 28
-o 25 6 w
-o 21 4 nnnnn
-# turn 29
-o 25 5 w
-o 16 4 nnnne
-# turn 30
-o 25 4 w
-o 12 5 eeeee
-# turn 31
-o 25 3 nnnnn
-o 12 10 s
-# turn 32
-o 20 3 nnnnn
-o 13 10 s
-# turn 33
-o 15 3 nneee
-o 14 10 s
-# turn 34
-o 13 6 eeeee
-o 15 10 s
-# turn 35
+# turn 11
 o 24 12 eeeee
-o 13 11 a1
-o 16 10 s
-# turn 36
-o 13 11 eee
-o 17 10 s
-# turn 37
-o 24 17 eeee
-o 13 14 s
-o 18 10 s
-# turn 38
-o 24 21 eeee
-o 14 14 s
-o 19 10 s
-# turn 39
-o 24 25 eeee
-o 15 14 s
-o 20 10 s
-# turn 40
-o 24 29 e
-o 16 14 s
-o 21 10 s
-# turn 41
-o 17 14 s
-o 22 10 s
-# turn 42
-o 18 14 s
-o 23 10 s
-# turn 43
-o 19 14 s
-o 24 10 s
-# turn 44
-o 20 14 s
-o 25 10 s
-# turn 45
-o 21 14 s
-o 26 10 w
-# turn 46
-o 22 14 s
-o 26 9 w
-# turn 47
-o 23 14 s
-o 26 8 w
-# turn 48
-o 24 14 s
-o 26 7 w
-# turn 49
-o 25 14 w
-o 26 6 w
-# turn 50
-o 25 13 w
-o 26 5 w
-# turn 51
-o 25 12 w
-o 26 4 nnnnn
-# turn 52
-o 25 11 w
-o 21 4 nneee
-# turn 53
-o 25 10 w
-o 19 7 eeeee
-# turn 54
-o 25 9 w
-o 19 12 eeee
-# turn 55
-o 25 8 w
-o 19 16 s
-# turn 56
-o 25 7 w
-o 20 16 s
-# turn 57
-o 25 6 w
-o 21 16 s
-# turn 58
-o 25 29 a0
-o 25 5 w
-o 22 16 s
-# turn 59
-o 25 4 w
-o 23 16 s
-# turn 60
-o 25 3 nnnnn
-o 24 16 s
-# turn 61
-o 20 3 nnnnn
-o 25 16 s
-# turn 62
-o 15 3 nneee
-o 26 16 w
-# turn 63
-o 13 6 eeeee
-o 26 15 w
-# turn 64
-o 13 11 eeeee
-o 26 14 w
-# turn 65
-o 13 16 ee
+o 24 13 s
+# turn 12
+o 24 17 eeeee
+o 25 13 s
+# turn 13
+o 24 22 eeeee
 o 26 13 w
-# turn 66
-o 13 18 s
+# turn 14
+o 24 27 a2
+o 25 3 eeeee
 o 26 12 w
-# turn 67
-o 14 18 s
-# turn 68
-o 24 30 d
-o 25 29 d
-o 15 18 s
-o 26 4 nnnnn
-# turn 69
-o 16 18 s
-o 21 4 nnnne
-# turn 70
-o 17 18 s
-o 17 5 eeeee
-# turn 71
-o 18 18 s
-o 17 10 eeeee
-# turn 72
-o 19 18 s
-o 17 15 eeee
-# turn 73
-o 24 30 a1
-o 20 18 s
-o 17 19 s
-# turn 74
-o 21 18 s
-o 18 19 s
-# turn 75
-o 22 18 s
-o 19 19 s
-# turn 76
-o 23 18 s
-o 20 19 s
-# turn 77
-o 24 18 s
-o 21 19 s
-# turn 78
-o 25 18 w
-o 22 19 s
-# turn 79
-o 25 17 w
-o 23 19 s
-# turn 80
-o 25 16 w
-o 24 19 s
-# turn 81
-o 25 15 w
-o 25 19 s
-# turn 82
-o 25 14 w
-o 26 19 w
-# turn 83
-o 25 13 w
-o 26 18 w
-# turn 84
-o 25 12 w
-o 26 17 w
-# turn 85
-o 25 11 w
-o 26 16 w
-# turn 86
-o 25 10 w
-o 26 15 w
-# turn 87
-o 25 9 w
-o 26 14 w
-# turn 88
-o 25 8 w
-o 26 13 w
-# turn 89
-o 25 7 w
-o 26 12 w
-# turn 90
-o 25 6 w
+# turn 15
+o 25 8 eeeee
 o 26 11 w
-# turn 91
-o 25 5 w
+# turn 16
+o 25 13 eeeee
 o 26 10 w
-# turn 92
-o 25 4 w
+# turn 17
+o 25 18 eeeee
 o 26 9 w
-# turn 93
-o 25 3 nnnnn
+# turn 18
+o 24 2 eeeee
+o 25 23 a1
 o 26 8 w
-# turn 94
-o 25 29 a1
-o 20 3 nnnnn
+# turn 19
+o 25 23 eeeee
 o 26 7 w
-# turn 95
-o 15 3 nnnnn
-o 26 6 w
-# turn 96
-o 10 3 eeeee
-o 26 5 w
-# turn 97
-o 10 8 a0
+# turn 20
+o 24 7 eeeeee
+# turn 21
+o 24 13 eeeeee
+# turn 22
+o 24 19 eeeeee
+# turn 23
+o 24 25 eeeee
+# turn 24
+o 24 30 a0
 o 26 4 nnnnnn
-# turn 98
-o 10 8 eeeeee
-# turn 99
-o 10 14 ee
-# turn 100
-o 10 16 s
-o 20 4 neeee
-# turn 101
-o 11 16 s
-o 19 8 eeeee
-# turn 102
-o 12 16 s
-o 19 13 a0
-# turn 103
-o 13 16 s
-o 19 13 eee
-# turn 104
-o 14 16 s
-o 19 16 s
-# turn 105
-o 15 16 s
-o 20 16 s
-# turn 106
-o 16 16 s
-o 21 16 s
-# turn 107
-o 17 16 s
-o 22 16 s
-# turn 108
-o 18 16 s
-o 23 16 s
-# turn 109
-o 19 16 s
-o 24 16 s
-# turn 110
-o 20 16 s
-o 25 16 s
-# turn 111
-o 21 16 s
-o 26 16 w
-# turn 112
-o 22 16 s
-o 26 15 w
-# turn 113
-o 23 16 s
-o 26 14 w
-# turn 114
-o 24 16 s
+# turn 25
+o 20 4 nnneee
+# turn 26
+o 17 7 eeeeee
+# turn 27
+o 23 1 sssee
+o 17 13 s
+# turn 28
+o 26 3 eeeee
+o 18 13 s
+# turn 29
+o 26 8 eeeee
+o 19 13 s
+# turn 30
+o 26 13 eeeee
+o 20 13 s
+# turn 31
+o 26 18 eeeee
+o 21 13 s
+# turn 32
+o 26 23 a3
+o 22 13 s
+# turn 33
+o 26 23 eeeee
+o 23 13 s
+# turn 34
+o 24 13 s
+# turn 35
+o 25 13 s
+# turn 36
 o 26 13 w
+# turn 37
+o 26 12 w
+# turn 38
+o 26 11 w
+# turn 39
+o 26 10 w
+# turn 40
+o 26 9 w
+# turn 41
+o 26 8 w
+# turn 42
+o 26 7 w
+# turn 43
+o 26 6 w
+# turn 44
+o 26 5 w
+# turn 45
+o 26 4 a1
+# turn 46
+o 26 4 nnnnnn
+# turn 47
+o 20 4 nnneee
+# turn 48
+o 17 7 eeeeee
+# turn 49
+o 25 28 a2
+o 17 13 eeeeee
+# turn 50
+o 17 19 s
+# turn 51
+o 18 19 s
+# turn 52
+o 19 19 s
+# turn 53
+o 20 19 s
+# turn 54
+o 21 19 s
+# turn 55
+o 22 19 s
+# turn 56
+# turn 57
+# turn 58
+# turn 59
+# turn 60
+# turn 61
+# turn 62
+# turn 63
+# turn 64
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 65
+o 26 28 a0
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 66
+o 24 30 a0
+# turn 67
+# turn 68
+# turn 69
+o 25 28 e
+# turn 70
+# turn 71
+o 25 3 eeeeee
+# turn 72
+o 25 9 a1
+# turn 73
+o 25 9 eeeeee
+# turn 74
+o 25 15 eeeeee
+# turn 75
+o 25 21 eeeeee
+# turn 76
+o 23 19 nnnnnn
+# turn 77
+# turn 78
+# turn 79
+# turn 80
+# turn 81
+# turn 82
+# turn 83
+# turn 84
+# turn 85
+# turn 86
+# turn 87
+# turn 88
+# turn 89
+# turn 90
+# turn 91
+# turn 92
+o 25 27 ee
+# turn 93
+# turn 94
+# turn 95
+# turn 96
+# turn 97
+o 24 30 a0
+# turn 98
+# turn 99
+# turn 100
+# turn 101
+# turn 102
+o 26 28 a2
+# turn 103
+# turn 104
+# turn 105
+# turn 106
+# turn 107
+# turn 108
+# turn 109
+# turn 110
+# turn 111
+# turn 112
+# turn 113
+# turn 114
 # turn 115
-o 25 16 w
-o 26 12 w
 # turn 116
-o 25 15 w
-o 26 11 w
 # turn 117
-o 25 14 w
-o 26 10 w
 # turn 118
-o 25 13 w
-o 26 9 w
-# turn 119
-o 25 12 w
-o 26 8 w
-# turn 120
-o 25 11 w
-o 26 7 w
-# turn 121
-o 25 10 w
-o 26 6 w
-# turn 122
-o 25 9 w
-o 26 5 w
-# turn 123
-o 25 8 w
-o 26 4 nnnnn
-# turn 124
-o 25 7 w
-o 21 4 nnnnn
-# turn 125
-o 25 6 w
-o 16 4 neeee
-# turn 126
-o 25 5 w
-o 15 8 eeeee
-# turn 127
-o 25 4 w
-o 15 13 nnnnn
-# turn 128
-o 25 3 nnnnnn
-# turn 129
-o 19 3 nnnnnn
-# turn 130
-o 13 3 nnnnnn
-# turn 131
-o 10 13 nnnw
-# turn 132
-o 7 3 eeeee
-o 7 12 s
-# turn 133
-o 7 8 eeeee
-o 8 12 s
-# turn 134
-o 7 13 eee
-o 9 12 s
-# turn 135
-o 7 16 s
-o 10 12 s
-# turn 136
-o 8 16 s
-o 11 12 s
-# turn 137
-o 9 16 s
-o 12 12 s
-# turn 138
-o 10 16 s
-o 13 12 s
-# turn 139
-o 11 16 s
-o 14 12 s
-# turn 140
 o 25 29 a0
-o 12 16 s
-o 15 12 s
+# turn 119
+# turn 120
+# turn 121
+# turn 122
+# turn 123
+# turn 124
+# turn 125
+# turn 126
+# turn 127
+# turn 128
+# turn 129
+# turn 130
+# turn 131
+# turn 132
+# turn 133
+o 26 28 a2
+o 24 30 a2
+# turn 134
+# turn 135
+# turn 136
+# turn 137
+# turn 138
+# turn 139
+# turn 140
 # turn 141
-o 13 16 s
-o 16 12 s
 # turn 142
-o 14 16 s
-o 17 12 s
 # turn 143
-o 15 16 s
-o 18 12 s
 # turn 144
-o 16 16 s
-o 19 12 s
 # turn 145
-o 17 16 s
-o 20 12 s
 # turn 146
-o 18 16 s
-o 21 12 s
 # turn 147
-o 19 16 s
-o 22 12 s
 # turn 148
-o 20 16 s
-o 23 12 s
 # turn 149
-o 21 16 s
-o 24 12 s
+o 25 29 a0
 # turn 150
-o 24 30 a3
-o 22 16 s
-o 25 12 s
 # turn 151
-o 23 16 s
-o 26 12 w
 # turn 152
-o 24 16 s
-o 26 11 w
 # turn 153
-o 25 16 w
-o 26 10 w
 # turn 154
-o 25 15 w
-o 26 9 w
 # turn 155
-o 25 14 w
-o 26 8 w
 # turn 156
-o 25 13 w
-o 26 7 w
 # turn 157
-o 25 12 w
-o 26 6 w
 # turn 158
-o 25 11 w
-o 26 5 w
 # turn 159
-o 25 10 w
-o 26 4 nnnnn
 # turn 160
-o 25 9 w
-o 21 4 nnnnn
 # turn 161
-o 25 29 d
-o 25 8 w
-o 16 4 nnnnn
 # turn 162
-o 25 7 w
-o 11 4 nnnnn
 # turn 163
-o 25 6 w
-o 6 4 nnnee
 # turn 164
-o 25 5 w
-o 3 6 eeeee
+o 26 28 a2
+o 24 30 a2
 # turn 165
-o 23 1 seee
-o 25 4 w
-o 3 11 s
+# turn 166
+# turn 167
+# turn 168
+# turn 169
+# turn 170
+# turn 171
+# turn 172
+# turn 173
+# turn 174
+# turn 175
+# turn 176
+# turn 177
+# turn 178
+# turn 179
+# turn 180
+o 25 29 a0
+# turn 181
+# turn 182
+# turn 183
+# turn 184
+# turn 185
+# turn 186
+# turn 187
+# turn 188
+# turn 189
+# turn 190
+# turn 191
+# turn 192
+# turn 193
+# turn 194
+# turn 195
+o 26 28 a2
+o 24 30 a2
+# turn 196
+# turn 197
+# turn 198
+# turn 199
+# turn 200
+# turn 201
+# turn 202
+# turn 203
+# turn 204
+# turn 205
+# turn 206
+# turn 207
+# turn 208
+# turn 209
+# turn 210
+# turn 211
+o 25 29 a0
+# turn 212
+# turn 213
+# turn 214
+# turn 215
+# turn 216
+# turn 217
+# turn 218
+# turn 219
+# turn 220
+# turn 221
+# turn 222
+# turn 223
+# turn 224
+# turn 225
+# turn 226
+o 26 28 a2
+o 24 30 a2
+# turn 227
+# turn 228
+# turn 229
+# turn 230
+# turn 231
+# turn 232
+# turn 233
+# turn 234
+# turn 235
+# turn 236
+# turn 237
+# turn 238
+# turn 239
+# turn 240
+# turn 241
+# turn 242
+o 25 29 a0
+# turn 243
+# turn 244
+# turn 245
+# turn 246
+# turn 247
+# turn 248
+# turn 249
+# turn 250
+# turn 251
+# turn 252
+# turn 253
+# turn 254
+# turn 255
+# turn 256
+# turn 257
+o 26 28 a2
+o 24 30 a2
+# turn 258
+# turn 259
+# turn 260
+# turn 261
+# turn 262
+# turn 263
+# turn 264
+# turn 265
+# turn 266
+# turn 267
+# turn 268
+# turn 269
+# turn 270
+# turn 271
+# turn 272
+# turn 273
+o 25 29 a0
+# turn 274
+# turn 275
+# turn 276
+# turn 277
+# turn 278
+# turn 279
+# turn 280
+# turn 281
+# turn 282
+# turn 283
+# turn 284
+# turn 285
+# turn 286
+# turn 287
+# turn 288
+o 26 28 a2
+o 24 30 a2
+# turn 289
+# turn 290
+# turn 291
+# turn 292
+# turn 293
+# turn 294
+# turn 295
+# turn 296
+# turn 297
+# turn 298
+# turn 299
+# turn 300
+# turn 301
+# turn 302
+# turn 303
+# turn 304
+o 25 29 a0
+# turn 305
+# turn 306
+# turn 307
+# turn 308
+# turn 309
+# turn 310
+# turn 311
+# turn 312
+# turn 313
+# turn 314
+# turn 315
+# turn 316
+# turn 317
+# turn 318
+# turn 319
+o 26 28 a2
+o 24 30 a2
+# turn 320
+# turn 321
+# turn 322
+# turn 323
+# turn 324
+# turn 325
+# turn 326
+# turn 327
+# turn 328
+# turn 329
+# turn 330
+# turn 331
+# turn 332
+# turn 333
+# turn 334
+# turn 335
+o 25 29 a0
+# turn 336
+# turn 337
+# turn 338
+# turn 339
+# turn 340
+o 17 19 s
+# turn 341
+o 23 1 sssee
+o 18 19 s
+# turn 342
+o 19 19 s
+# turn 343
+o 20 19 s
+# turn 344
+o 21 19 s
+# turn 345
+o 22 19 s
+# turn 346
+o 23 19 s
+# turn 347
+o 24 19 s
+# turn 348
+o 25 19 s
+# turn 349
+o 26 19 w
+# turn 350
+o 26 18 w
+# turn 351
+o 26 17 w
+# turn 352
+o 26 16 w
+# turn 353
+o 26 15 w
+# turn 354
+o 26 14 w
+# turn 355
+o 26 13 w
+# turn 356
+o 26 12 w
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 357
+o 26 11 w
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 358
+o 26 10 w
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 359
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 360
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 361
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 362
+o 24 30 a0
+# turn 363
+# turn 364
+o 25 3 eeeee
+# turn 365
+o 25 8 a1
+# turn 366
+o 25 8 eeeee
+# turn 367
+o 25 13 eeeee
+# turn 368
+o 25 18 eeeee
+# turn 369
+o 25 23 eeeee
+# turn 370
+o 25 28 e
+# turn 371
+# turn 372
+# turn 373
+# turn 374
+# turn 375
+# turn 376
+# turn 377
+# turn 378
+# turn 379
+# turn 380
+# turn 381
+# turn 382
+# turn 383
+# turn 384
+# turn 385
+o 26 3 eeeee
+# turn 386
+o 26 9 w
+# turn 387
+o 23 1 sssee
+o 26 8 w
+# turn 388
+o 26 3 eeeee
+o 26 7 w
+# turn 389
+o 26 8 eeeee
+o 26 6 w
+The order: 'o 25 29 a0' is invalid # You tried to move a pirate but dont have one at this location
+# turn 390
+o 26 13 eeeee
+o 26 5 w
+# turn 391
+o 26 18 eeeeee
+# turn 392
+o 26 24 eeee
+# turn 393
+o 26 28 a0
+o 26 4 nnnnnn
+The order: 'o 24 30 a0' is invalid # The pirate is drunk - can't do anything
+# turn 394
+o 20 4 nnneee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 395
+o 17 7 eeeeee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 396
+o 17 13 eeeeee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 397
+o 25 3 eeeeee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 398
+o 25 9 eeeeee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 399
+o 25 15 eeeeee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 400
+o 25 21 eeeeee
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 401
+o 25 27 a3
+The order: 'o 24 30 a3' is invalid # The pirate is drunk - can't do anything
+# turn 402
+o 25 27 ee
+# turn 403
+# turn 404
+# turn 405
+# turn 406
+# turn 407
+# turn 408
+# turn 409
+# turn 410
+# turn 411
+# turn 412
+# turn 413
+# turn 414
+o 24 30 a0
+# turn 415
+# turn 416
+# turn 417
+# turn 418
+# turn 419
+# turn 420
+# turn 421
+# turn 422
+# turn 423
+# turn 424
+# turn 425
+# turn 426
+# turn 427
+# turn 428
+# turn 429
+# turn 430
+# turn 431
+# turn 432
+o 25 29 a0
+# turn 433
+# turn 434
+# turn 435
+# turn 436
+# turn 437
+# turn 438
+# turn 439
+# turn 440
+# turn 441
+# turn 442
+# turn 443
+# turn 444
+# turn 445
+# turn 446
+# turn 447
+# turn 448
+# turn 449
+# turn 450
+# turn 451
+# turn 452
+# turn 453
+o 24 30 a0
+# turn 454
+# turn 455
+# turn 456
+# turn 457
+# turn 458
+# turn 459
+# turn 460
+# turn 461
+# turn 462
+# turn 463
+# turn 464
+# turn 465
+# turn 466
+# turn 467
+# turn 468
+# turn 469
+# turn 470
+# turn 471
+# turn 472
+# turn 473
+# turn 474
+o 25 29 a0
+# turn 475
+# turn 476
+# turn 477
+# turn 478
+# turn 479
+# turn 480
+# turn 481
+# turn 482
+# turn 483
+# turn 484
+# turn 485
+# turn 486
+# turn 487
+# turn 488
+# turn 489
+# turn 490
+# turn 491
+# turn 492
+# turn 493
+# turn 494
+# turn 495
+o 24 30 a0
+# turn 496
+# turn 497
+# turn 498
+# turn 499
+# turn 500
+# turn 501
+# turn 502
+# turn 503
+# turn 504
+# turn 505
+# turn 506
+# turn 507
+# turn 508
+# turn 509
+# turn 510
+# turn 511
+# turn 512
+# turn 513
+# turn 514
+# turn 515
+# turn 516
+o 25 29 a0
+# turn 517
+# turn 518
+# turn 519
+# turn 520
+# turn 521
+# turn 522
+# turn 523
+# turn 524
+# turn 525
+# turn 526
+# turn 527
+# turn 528
+# turn 529
+# turn 530
+# turn 531
+# turn 532
+# turn 533
+# turn 534
+# turn 535
+# turn 536
+# turn 537
+o 24 30 a0
+# turn 538
+# turn 539
+# turn 540
+# turn 541
+# turn 542
+# turn 543
+# turn 544
+# turn 545
+# turn 546
+# turn 547
+# turn 548
+# turn 549
+# turn 550
+# turn 551
+# turn 552
+# turn 553
+# turn 554
+# turn 555
+# turn 556
+# turn 557
+# turn 558
+o 25 29 a0
+# turn 559
+# turn 560
+# turn 561
+# turn 562
+# turn 563
+# turn 564
+# turn 565
+# turn 566
+# turn 567
+# turn 568
+# turn 569
+# turn 570
+# turn 571
+# turn 572
+# turn 573
+# turn 574
+# turn 575
+# turn 576
+# turn 577
+# turn 578
+# turn 579
+o 24 30 a0
+# turn 580
+# turn 581
+# turn 582
+# turn 583
+# turn 584
+# turn 585
+# turn 586
+# turn 587
+# turn 588
+# turn 589
+# turn 590
+# turn 591
+# turn 592
+# turn 593
+# turn 594
+# turn 595
+# turn 596
+# turn 597
+# turn 598
+# turn 599
+# turn 600
+o 25 29 a0
+# turn 601
+# turn 602
+# turn 603
+# turn 604
+# turn 605
+# turn 606
+# turn 607
+# turn 608
+# turn 609
+# turn 610
+# turn 611
+# turn 612
+# turn 613
+# turn 614
+# turn 615
+# turn 616
+# turn 617
+# turn 618
+# turn 619
+# turn 620
+# turn 621
+o 24 30 a0
+# turn 622
+# turn 623
+# turn 624
+# turn 625
+# turn 626
+# turn 627
+# turn 628
+# turn 629
+# turn 630
+# turn 631
+# turn 632
+# turn 633
+# turn 634
+# turn 635
+# turn 636
+# turn 637
+# turn 638
+# turn 639
+# turn 640
+# turn 641
+# turn 642
+o 25 29 a0
+# turn 643
+# turn 644
+# turn 645
+# turn 646
+# turn 647
+# turn 648
+# turn 649
+# turn 650
+# turn 651
+# turn 652
+# turn 653
+# turn 654
+# turn 655
+# turn 656
+# turn 657
+# turn 658
+# turn 659
+# turn 660
+# turn 661
+# turn 662
+# turn 663
+o 24 30 a0
+# turn 664
+# turn 665
+# turn 666
+# turn 667
+# turn 668
+# turn 669
+# turn 670
+# turn 671
+# turn 672
+# turn 673
+# turn 674
+# turn 675
+# turn 676
+# turn 677
+# turn 678
+# turn 679
+# turn 680
+# turn 681
+# turn 682
+# turn 683
+# turn 684
+o 25 29 a0
+# turn 685
+# turn 686
+# turn 687
+# turn 688
+# turn 689
+# turn 690
+# turn 691
+# turn 692
+# turn 693
+# turn 694
+# turn 695
+# turn 696
+# turn 697
+# turn 698
+# turn 699
+# turn 700
+# turn 701
+# turn 702
+# turn 703
+# turn 704
+# turn 705
+o 24 30 a0
+# turn 706
+# turn 707
+# turn 708
+# turn 709
+# turn 710
+# turn 711
+# turn 712
+# turn 713
+# turn 714
+# turn 715
+# turn 716
+# turn 717
+# turn 718
+# turn 719
+# turn 720
+# turn 721
+# turn 722
+# turn 723
+# turn 724
+# turn 725
+# turn 726
+o 25 29 a0
+# turn 727
+# turn 728
+# turn 729
+# turn 730
+# turn 731
+# turn 732
+# turn 733
+# turn 734
+# turn 735
+# turn 736
+# turn 737
+# turn 738
+# turn 739
+# turn 740
+# turn 741
+# turn 742
+# turn 743
+# turn 744
+# turn 745
+# turn 746
+# turn 747
+o 24 30 a0
+# turn 748
+# turn 749
+# turn 750
+# turn 751
+# turn 752
+# turn 753
+# turn 754
+# turn 755
+# turn 756
+# turn 757
+# turn 758
+# turn 759
+# turn 760
+# turn 761
+# turn 762
+# turn 763
+# turn 764
+# turn 765
+# turn 766
+# turn 767
+# turn 768
+o 25 29 a0
+# turn 769
+# turn 770
+# turn 771
+# turn 772
+# turn 773
+# turn 774
+# turn 775
+# turn 776
+# turn 777
+# turn 778
+# turn 779
+# turn 780
+# turn 781
+# turn 782
+# turn 783
+# turn 784
+# turn 785
+# turn 786
+# turn 787
+# turn 788
+# turn 789
+o 24 30 a0
+# turn 790
+# turn 791
+# turn 792
+# turn 793
+# turn 794
+# turn 795
+# turn 796
+# turn 797
+# turn 798
+# turn 799
+# turn 800
+# turn 801
+# turn 802
+# turn 803
+# turn 804
+# turn 805
+# turn 806
+# turn 807
+# turn 808
+# turn 809
+# turn 810
+o 25 29 a0
+# turn 811
+# turn 812
+# turn 813
+# turn 814
+# turn 815
+# turn 816
+# turn 817
+# turn 818
+# turn 819
+# turn 820
+# turn 821
+# turn 822
+# turn 823
+# turn 824
+# turn 825
+# turn 826
+# turn 827
+# turn 828
+# turn 829
+# turn 830
+# turn 831
+o 24 30 a0
+# turn 832
+# turn 833
+# turn 834
+# turn 835
+# turn 836
+# turn 837
+# turn 838
+# turn 839
+# turn 840
+# turn 841
+# turn 842
+# turn 843
+# turn 844
+# turn 845
+# turn 846
+# turn 847
+# turn 848
+# turn 849
+# turn 850
+# turn 851
+# turn 852
+o 25 29 a0
+# turn 853
+# turn 854
+# turn 855
+# turn 856
+# turn 857
+# turn 858
+# turn 859
+# turn 860
+# turn 861
+# turn 862
+# turn 863
+# turn 864
+# turn 865
+# turn 866
+# turn 867
+# turn 868
+# turn 869
+# turn 870
+# turn 871
+# turn 872
+# turn 873
+o 24 30 a0
+# turn 874
+# turn 875
+# turn 876
+# turn 877
+# turn 878
+# turn 879
+# turn 880
+# turn 881
+# turn 882
+# turn 883
+# turn 884
+# turn 885
+# turn 886
+# turn 887
+# turn 888
+# turn 889
+# turn 890
+# turn 891
+# turn 892
+# turn 893
+# turn 894
+o 25 29 a0
+# turn 895
+# turn 896
+# turn 897
+# turn 898
+# turn 899
+# turn 900
+# turn 901
+# turn 902
+# turn 903
+# turn 904
+# turn 905
+# turn 906
+# turn 907
+# turn 908
+# turn 909
+# turn 910
+# turn 911
+# turn 912
+# turn 913
+# turn 914
+# turn 915
+o 24 30 a0
+# turn 916
+# turn 917
+# turn 918
+# turn 919
+# turn 920
+# turn 921
+# turn 922
+# turn 923
+# turn 924
+# turn 925
+# turn 926
+# turn 927
+# turn 928
+# turn 929
+# turn 930
+# turn 931
+# turn 932
+# turn 933
+# turn 934
+# turn 935
+# turn 936
+o 25 29 a0
+# turn 937
+# turn 938
+# turn 939
+# turn 940
+# turn 941
+# turn 942
+# turn 943
+# turn 944
+# turn 945
+# turn 946
+# turn 947
+# turn 948
+# turn 949
+# turn 950
+# turn 951
+# turn 952
+# turn 953
+# turn 954
+# turn 955
+# turn 956
+# turn 957
+o 24 30 a0
+# turn 958
+# turn 959
+# turn 960
+# turn 961
+# turn 962
+# turn 963
+# turn 964
+# turn 965
+# turn 966
+# turn 967
+# turn 968
+# turn 969
+# turn 970
+# turn 971
+# turn 972
+# turn 973
+# turn 974
+# turn 975
+# turn 976
+# turn 977
+# turn 978
+o 25 29 a0
+# turn 979
+# turn 980
+# turn 981
+# turn 982
+# turn 983
+# turn 984
+# turn 985
+# turn 986
+# turn 987
+# turn 988
+# turn 989
+# turn 990
+# turn 991
+# turn 992
+# turn 993
+# turn 994
+# turn 995
+# turn 996
+# turn 997
+# turn 998
+# turn 999
+o 24 30 a0
+# turn 1000

@@ -1,228 +1,1992 @@
-turn    1 bot [FarBotV2] invalid actions:
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
-turn    2 bot [FarBotV2] invalid actions:
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
-turn    3 bot [FarBotV2] invalid actions:
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
-turn    4 bot [FarBotV2] invalid actions:
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-The order: 'o 25 29 -' is invalid # invalid directions
-turn    5 bot [FarBotV2] invalid actions:
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-turn    6 bot [FarBotV2] invalid actions:
-The order: 'o 23 31 -' is invalid # invalid directions
-The order: 'o 24 30 -' is invalid # invalid directions
-turn    8 bot [FarBotV2] invalid actions:
-The order: 'o 24 30 -' is invalid # invalid directions
-turn    9 bot [FarBotV2] invalid actions:
-The order: 'o 24 30 -' is invalid # invalid directions
-turn   10 bot [FarBotV2] invalid actions:
-The order: 'o 24 30 -' is invalid # invalid directions
-turn   11 bot [FarBotV2] invalid actions:
-The order: 'o 24 30 -' is invalid # invalid directions
-turn   12 bot [FarBotV2] invalid actions:
-The order: 'o 24 30 -' is invalid # invalid directions
-turn   24 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 nnnn' is invalid # You tried to move a pirate but dont have one at this location
-turn   37 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   38 bot [FarBotV2] invalid actions:
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   39 bot [FarBotV2] invalid actions:
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   40 bot [FarBotV2] invalid actions:
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-turn   41 bot [FarBotV2] invalid actions:
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-turn   42 bot [FarBotV2] invalid actions:
-The order: 'o 16 11 a2' is invalid # The pirate is drunk - can't do anything
-turn   54 bot [FarBotV2] invalid actions:
-The order: 'o 16 11 a3' is invalid # The pirate is drunk - can't do anything
-turn   59 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   60 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   61 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   62 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   63 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   64 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   65 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   66 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   67 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   68 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn   69 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   70 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   71 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   72 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   73 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   74 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   75 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   76 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   77 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   78 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   79 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a0' is invalid # The pirate is drunk - can't do anything
-turn   80 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   81 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   82 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   83 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   84 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   85 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   86 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   87 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   88 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   89 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   90 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   91 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   92 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   93 bot [FarBotV2] invalid actions:
-The order: 'o 24 27 a1' is invalid # The pirate is drunk - can't do anything
-turn   99 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  100 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  101 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  103 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  104 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  105 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  106 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  128 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-turn  129 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-turn  130 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-turn  131 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a3' is invalid # You tried to move a pirate but dont have one at this location
-turn  136 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  137 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  138 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  139 bot [FarBotV2] invalid actions:
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  141 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  142 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  143 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  144 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 12 16 a2' is invalid # You tried to move a pirate but dont have one at this location
-turn  145 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn  146 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn  147 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn  148 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn  149 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn  150 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-turn  151 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  152 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  153 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  154 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  155 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  156 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  157 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  158 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  159 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a0' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a0' is invalid # The pirate is drunk - can't do anything
-turn  160 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 a1' is invalid # The pirate is drunk - can't do anything
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
-The order: 'o 24 30 a1' is invalid # You tried to move a pirate but dont have one at this location
-turn  161 bot [FarBotV2] invalid actions:
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
-turn  162 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
-turn  163 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
-turn  164 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
-turn  165 bot [FarBotV2] invalid actions:
-The order: 'o 23 27 -' is invalid # invalid directions
-The order: 'o 26 28 a1' is invalid # The pirate is drunk - can't do anything
+turn   21 bot [tpb2] invalid actions:
+The order: 'o 25 29 wa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   22 bot [tpb2] invalid actions:
+The order: 'o 25 29 wa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   23 bot [tpb2] invalid actions:
+The order: 'o 25 29 wa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   24 bot [tpb2] invalid actions:
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   25 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   26 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   27 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   28 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   29 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   30 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   31 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   32 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   33 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 nea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   34 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   35 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   36 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   37 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   38 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   39 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   40 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   41 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   42 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   43 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   44 bot [tpb2] invalid actions:
+The order: 'o 22 31 a1' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   45 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   46 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   47 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   48 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   49 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   50 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   51 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   52 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   53 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   54 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   55 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   56 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   57 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   58 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   59 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   60 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   61 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   62 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   63 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   64 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   65 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   66 bot [tpb2] invalid actions:
+The order: 'o 25 29 swa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   67 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 a0' is invalid # The pirate is drunk - can't do anything
+turn   68 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 a0' is invalid # The pirate is drunk - can't do anything
+turn   69 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+The order: 'o 25 29 a0' is invalid # The pirate is drunk - can't do anything
+turn   70 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+turn   71 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+turn   72 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+turn   73 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+turn   74 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+turn   75 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssssww' is invalid # The pirate is drunk - can't do anything
+turn   76 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   77 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   78 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   79 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   80 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   81 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   82 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   83 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   84 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   85 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   86 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   87 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   88 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   89 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   90 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   91 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   92 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   93 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   94 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   95 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   96 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   97 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   98 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn   99 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  100 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  101 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  102 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  103 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  104 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  105 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  106 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  107 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  108 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  109 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  110 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  111 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  112 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  113 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  114 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  115 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  116 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  117 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  118 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  119 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  120 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  121 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  122 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  123 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  124 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  125 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  126 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  127 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  128 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  129 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  130 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  131 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  132 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  133 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  134 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  135 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  136 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  137 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  138 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  139 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  140 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  141 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  142 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  143 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  144 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  145 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  146 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  147 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  148 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  149 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  150 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  151 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  152 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  153 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  154 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  155 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  156 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  157 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  158 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  159 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  160 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  161 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  162 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  163 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  164 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  165 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  166 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  167 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  168 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  169 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  170 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  171 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  172 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  173 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  174 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  175 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  176 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  177 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  178 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  179 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  180 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  181 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  182 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  183 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  184 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  185 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  186 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  187 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  188 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  189 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  190 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  191 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  192 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  193 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  194 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  195 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  196 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  197 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  198 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  199 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  200 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  201 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  202 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  203 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  204 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  205 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  206 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  207 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  208 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  209 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  210 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  211 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  212 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  213 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  214 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  215 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  216 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  217 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  218 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  219 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  220 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  221 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  222 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  223 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  224 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  225 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  226 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  227 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  228 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  229 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  230 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  231 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  232 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  233 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  234 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  235 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  236 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  237 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  238 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  239 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  240 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  241 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  242 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  243 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  244 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  245 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  246 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  247 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  248 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  249 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  250 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  251 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  252 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  253 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  254 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  255 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  256 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  257 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  258 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  259 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  260 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  261 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  262 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  263 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  264 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  265 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  266 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  267 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  268 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  269 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  270 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  271 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  272 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  273 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  274 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  275 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  276 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  277 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  278 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  279 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  280 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  281 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  282 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  283 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  284 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  285 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  286 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  287 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  288 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  289 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  290 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  291 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  292 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  293 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  294 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  295 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  296 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  297 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  298 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  299 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  300 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  301 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  302 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  303 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  304 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  305 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  306 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  307 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  308 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  309 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  310 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  311 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  312 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  313 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  314 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  315 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  316 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  317 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  318 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  319 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  320 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  321 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  322 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  323 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  324 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  325 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  326 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  327 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  328 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  329 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  330 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  331 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  332 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  333 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  334 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  335 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  336 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  337 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  338 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  339 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  340 bot [tpb2] invalid actions:
+The order: 'o 22 30 sssswwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  341 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  342 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  343 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  344 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  345 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  346 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  347 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  348 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  349 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  350 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  351 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  352 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  353 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  354 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  355 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  356 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  357 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  358 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  359 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  360 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  361 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssswa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  362 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  363 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  364 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  365 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  366 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  367 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  368 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  369 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  370 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  371 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  372 bot [tpb2] invalid actions:
+The order: 'o 22 30 ssa2' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  373 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  374 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  375 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  376 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  377 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  378 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  379 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  380 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  381 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  382 bot [tpb2] invalid actions:
+The order: 'o 22 30 ss' is invalid # The pirate is drunk - can't do anything
+turn  385 bot [tpb2] invalid actions:
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  386 bot [tpb2] invalid actions:
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  387 bot [tpb2] invalid actions:
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  388 bot [tpb2] invalid actions:
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  389 bot [tpb2] invalid actions:
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  390 bot [tpb2] invalid actions:
+The order: 'o 23 29 sea1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  393 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  394 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  395 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  396 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  397 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  398 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  399 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  400 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  401 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  402 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  403 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  404 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  405 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  406 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  407 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  408 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  409 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  410 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  411 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  412 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  413 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  414 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  415 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  416 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  417 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  418 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  419 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  420 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  421 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+The order: 'o 25 28 a0' is invalid # The pirate is drunk - can't do anything
+turn  422 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa0' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  423 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  424 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  425 bot [tpb2] invalid actions:
+The order: 'o 23 29 ssswa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  427 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  428 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  429 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  430 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  431 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  432 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  433 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  434 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  435 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  436 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  437 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  438 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  439 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  440 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  441 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  442 bot [tpb2] invalid actions:
+The order: 'o 23 31 swa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  443 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  444 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  445 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  446 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  447 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  448 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  449 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  450 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  451 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  452 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  453 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  454 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  455 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  456 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  457 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  458 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  459 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  460 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  461 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  462 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  463 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  464 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  465 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  466 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  467 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  468 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  469 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  470 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  471 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  472 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  473 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  474 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  475 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  476 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  477 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  478 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  479 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  480 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  481 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  482 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  483 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  484 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  485 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  486 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  487 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  488 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  489 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  490 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  491 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  492 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  493 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  494 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  495 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  496 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  497 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  498 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  499 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  500 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  501 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  502 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  503 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  504 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  505 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  506 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  507 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  508 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  509 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  510 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  511 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  512 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  513 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  514 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  515 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  516 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  517 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  518 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  519 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  520 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  521 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  522 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  523 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  524 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  525 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  526 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  527 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  528 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  529 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  530 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  531 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  532 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  533 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  534 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  535 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  536 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  537 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  538 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  539 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  540 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  541 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  542 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  543 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  544 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  545 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  546 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  547 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  548 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  549 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  550 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  551 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  552 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  553 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  554 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  555 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  556 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  557 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  558 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  559 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  560 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  561 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  562 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  563 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  564 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  565 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  566 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  567 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  568 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  569 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  570 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  571 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  572 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  573 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  574 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  575 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  576 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  577 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  578 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  579 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  580 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  581 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  582 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  583 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  584 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  585 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  586 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  587 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  588 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  589 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  590 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  591 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  592 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  593 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  594 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  595 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  596 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  597 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  598 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  599 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  600 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  601 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  602 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  603 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  604 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  605 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  606 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  607 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  608 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  609 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  610 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  611 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  612 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  613 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  614 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  615 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  616 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  617 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  618 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  619 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  620 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  621 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  622 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  623 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  624 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  625 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  626 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  627 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  628 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  629 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  630 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  631 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  632 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  633 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  634 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  635 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  636 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  637 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  638 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  639 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  640 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  641 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  642 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  643 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  644 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  645 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  646 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  647 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  648 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  649 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  650 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  651 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  652 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  653 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  654 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  655 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  656 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  657 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  658 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  659 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  660 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  661 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  662 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  663 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  664 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  665 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  666 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  667 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  668 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  669 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  670 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  671 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  672 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  673 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  674 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  675 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  676 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  677 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  678 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  679 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  680 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  681 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  682 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  683 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  684 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  685 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  686 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  687 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  688 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  689 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  690 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  691 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  692 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  693 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  694 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  695 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  696 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  697 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  698 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  699 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  700 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  701 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  702 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  703 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  704 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  705 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  706 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  707 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  708 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  709 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  710 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  711 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  712 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  713 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  714 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  715 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  716 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  717 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  718 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  719 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  720 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  721 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  722 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  723 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  724 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  725 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  726 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  727 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  728 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  729 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  730 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  731 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  732 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  733 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  734 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  735 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  736 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  737 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  738 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  739 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  740 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  741 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  742 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  743 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  744 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  745 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  746 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  747 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  748 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  749 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  750 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  751 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  752 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  753 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  754 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  755 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  756 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  757 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  758 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  759 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  760 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  761 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  762 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  763 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  764 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  765 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  766 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  767 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  768 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  769 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  770 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  771 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  772 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  773 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  774 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  775 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  776 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  777 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  778 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  779 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  780 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  781 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  782 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  783 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  784 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  785 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  786 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  787 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  788 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  789 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  790 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  791 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  792 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  793 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  794 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  795 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  796 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  797 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  798 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  799 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  800 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  801 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  802 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  803 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  804 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  805 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  806 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  807 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  808 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  809 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  810 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  811 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  812 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  813 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  814 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  815 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  816 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  817 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  818 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  819 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  820 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  821 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  822 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  823 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  824 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  825 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  826 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  827 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  828 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  829 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  830 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  831 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  832 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  833 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  834 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  835 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  836 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  837 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  838 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  839 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  840 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  841 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  842 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  843 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  844 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  845 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  846 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  847 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  848 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  849 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  850 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  851 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  852 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  853 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  854 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  855 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  856 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  857 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  858 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  859 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  860 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  861 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  862 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  863 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  864 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  865 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  866 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  867 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  868 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  869 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  870 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  871 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  872 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  873 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  874 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  875 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  876 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  877 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  878 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  879 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  880 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  881 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  882 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  883 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  884 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  885 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  886 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  887 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  888 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  889 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  890 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  891 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  892 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  893 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  894 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  895 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  896 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  897 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  898 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  899 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  900 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  901 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  902 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  903 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  904 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  905 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  906 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  907 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  908 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  909 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  910 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  911 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  912 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  913 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  914 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  915 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  916 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  917 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  918 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  919 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  920 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  921 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  922 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  923 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  924 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  925 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  926 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  927 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  928 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  929 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  930 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  931 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  932 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  933 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  934 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  935 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  936 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  937 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  938 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  939 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  940 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  941 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  942 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  943 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  944 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  945 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  946 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  947 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  948 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  949 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  950 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  951 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  952 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  953 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  954 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  955 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  956 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  957 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  958 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  959 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  960 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  961 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  962 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  963 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  964 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  965 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  966 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  967 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  968 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  969 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  970 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  971 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  972 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  973 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  974 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  975 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  976 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  977 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  978 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  979 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  980 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  981 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  982 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  983 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  984 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  985 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  986 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  987 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  988 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  989 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  990 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  991 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  992 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  993 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  994 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  995 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  996 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  997 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  998 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn  999 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
+turn 1000 bot [tpb2] invalid actions:
+The order: 'o 23 31 ssswwwa1' is invalid # Attacking ship cannot defend, move or attack more than once in the same turn
