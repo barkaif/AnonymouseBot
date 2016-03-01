@@ -162,3 +162,6 @@ namespace ExampleBot
 		}
 	}
 }
+ts[0] = new Treasure(0, game.GetEnemyPirate(1).InitialLocation);
+                        ts[1] = new Treasure(0, game.GetEnemyPirate(1).InitialLocation);
+                        ts[2] = new Treasure(0, game.GetEnemyPirate(1).InitialLocation);
